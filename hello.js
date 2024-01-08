@@ -24,5 +24,14 @@ var myFd = "Sabbir Sun Abbu Ammu Apu";
 //console.log(myFd.split("Sabbir"));
 console.log(myFd.indexOf("A"));
 
+var num1 = "10";
+var num2 = 20;
+
+num1 = parseFloat(num1);//parseInt
+num1 = "" + num1;//int to string
+console.log(num1 + num2)
+
+
+
 
 
