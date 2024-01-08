@@ -6,3 +6,6 @@ console.log(number);
 
 var strType = "Web Devolopper";
 console.log(typeof strType);
+
+var numType = 20;
+console.log(typeof numType);
