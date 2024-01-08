@@ -9,3 +9,20 @@ console.log(typeof strType);
 
 var numType = 20;
 console.log(typeof numType);
+
+var BoolType = true;
+console.log(typeof BoolType);
+var BoolType1 = false;
+console.log(typeof BoolType1);
+
+// Java Script Reserved Keyword.... W3School....
+
+var rochona = "My name is MD. Sabbirul Islam Sun. My father's name is MD. Serajul Islam Sarker. My mother's name is Shahana Seraj";
+console.log(rochona.toUpperCase());
+
+var myFd = "Sabbir Sun Abbu Ammu Apu";
+//console.log(myFd.split("Sabbir"));
+console.log(myFd.indexOf("A"));
+
+
+
