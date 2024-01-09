@@ -30,7 +30,7 @@ switch(sum){
 
 // Real time date
 
-var myDate = new Date();
+/*var myDate = new Date();
 
 console.log(myDate.toTimeString());//Bangladesh Time
 console.log(myDate.toLocaleTimeString());// AM PM show
@@ -39,4 +39,15 @@ console.log(myDate.getMonth());// Month
 console.log(myDate.getDate());// Today Date
 console.log(myDate.getMinutes());
 console.log(myDate.getSeconds());
-console.log(myDate.getMilliseconds());
+console.log(myDate.getMilliseconds());*/
+
+// Array
+
+var fdName = ["Sabbir", "Islam", "Sun"];
+/*fdName[1] = "Sayla"; // Change array name
+console.log(fdName);*/
+//fdName.push("Sayla");
+//fdName.pop();
+fdName.shift();
+fdName.unshift("Sabbirul");
+console.log(fdName);
