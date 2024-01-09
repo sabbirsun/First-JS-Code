@@ -1,8 +1,10 @@
-var a = 2;
-var b = 5;
+var a = 10;
+var b = 10;
 
-if(a > b){
-    console.log("Math is correct");
+if(a < b){
+    console.log("a boro");
+}else if(a > b){
+    console.log("b boro");
 }else{
-    console.log("Math is not correct");
+    console.log("They both are same");
 }
