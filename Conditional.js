@@ -43,7 +43,7 @@ console.log(myDate.getMilliseconds());*/
 
 // Array
 
-var fdName = ["Sabbir", "Islam", "Sun","Sayla", "Seraj", "Sharmin"];
+//var fdName = ["Sabbir", "Islam", "Sun","Sayla", "Seraj", "Sharmin"];
 /*fdName[1] = "Sayla"; // Change array name
 console.log(fdName);*/
 //fdName.push("Sayla");
@@ -51,7 +51,25 @@ console.log(fdName);*/
 /*fdName.shift(); // 1st e delete
 fdName.unshift("Sabbirul"); // 1st e add
 console.log(fdName);*/
-fdName.splice(0,2, "Good Boy")
-console.log(fdName);
+//fdName.splice(0,2, "Good Boy"); // Replace Add Delete
+//console.log(fdName);
     //fdName.slice(2,4));
-    
+  
+
+// Loop
+
+/*for(var sum = 1; sum <= 5; sum++){
+    console.log(sum);
+}*/
+/*var num = [0,1,2,3,4,5,6,7,8,9];
+for(var i = 0; i < num.length; i++){
+    console.log(num[i]);
+}*/
+
+// While Loop
+
+/*var i = 0;
+while(i < 10){
+    console.log("Hello World!");
+    i++;
+}*/
