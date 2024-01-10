@@ -10,7 +10,7 @@ console.log(a + b);*/
 
 // Object
 
-function myInfo(YourName, Village, PhoneNumber){
+/*function myInfo(YourName, Village, PhoneNumber){
     this.YourName = YourName;
     this.Village = Village;
     this.PhoneNumber = PhoneNumber;
@@ -24,4 +24,10 @@ function myInfo(YourName, Village, PhoneNumber){
     var newObj2 = new myInfo("Sun", "Sirajganj", 017);
     newObj.showMe();
     console.log("break");
-    newObj2.showMe();
+    newObj2.showMe();*/
+
+// Ternary Operator
+
+var num = 5;
+var myCondition = (num < 10) ? "Ami tmr theke boro hote parlam na" : "Yes ami tmr theke boro hoye gechi";
+console.log(myCondition);
