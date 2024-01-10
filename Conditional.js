@@ -43,11 +43,15 @@ console.log(myDate.getMilliseconds());*/
 
 // Array
 
-var fdName = ["Sabbir", "Islam", "Sun"];
+var fdName = ["Sabbir", "Islam", "Sun","Sayla", "Seraj", "Sharmin"];
 /*fdName[1] = "Sayla"; // Change array name
 console.log(fdName);*/
 //fdName.push("Sayla");
 //fdName.pop();
-fdName.shift();
-fdName.unshift("Sabbirul");
+/*fdName.shift(); // 1st e delete
+fdName.unshift("Sabbirul"); // 1st e add
+console.log(fdName);*/
+fdName.splice(0,2, "Good Boy")
 console.log(fdName);
+    //fdName.slice(2,4));
+    
