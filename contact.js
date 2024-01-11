@@ -17,3 +17,17 @@ me()
     let tumi = "tomar name ki";
     console.log(tumi);
 }*/
+
+// Interview Question----> Hoisting
+/*var YourName = "Sabbir sun";
+console.log(YourName);*/
+
+// Function Expression
+var Expression = function(m,m1){
+    console.log(m,m1)
+}
+Expression("I love js" + " I love python", "I love me")
+// function callBack(){
+//     console.log("My message");
+// }
+
