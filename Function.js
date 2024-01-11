@@ -32,10 +32,12 @@ console.log(a + b);*/
 // var myCondition = (num < 10) ? "Ami tmr theke boro hote parlam na" : "Yes ami tmr theke boro hoye gechi";
 // console.log(myCondition);
 
-for(var i =0; i < 10; i++){
+/*for(var i =0; i < 10; i++){
     if( i == 5){
         console.log("Break Now");
-        break;
+        continue;//Replace
+        //break;
     }
     console.log(i);
-}
+}*/
+
