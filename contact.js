@@ -26,7 +26,7 @@ console.log(YourName);*/
 var Expression = function(m,m1){
     console.log(m,m1)
 }
-Expression("I love js" + " I love python", "I love me")
+//Expression("I love js" + " I love python", "I love me")
 // function callBack(){
 //     console.log("My message");
 // }
